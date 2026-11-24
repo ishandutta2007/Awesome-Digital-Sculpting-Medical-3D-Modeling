@@ -32,79 +32,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global 3D digital asset and sculpting software market is valued at approximately $32B–$36B (projected 13–14% CAGR), while the specialized healthcare 3D imaging and medical 3D printing modeling sector accounts for an additional $2.5B–$3.1B in dedicated device software and planning systems. The general creative digital sculpting landscape is **moderately fragmented**—anchored by incumbent 3D suites like Maxon and Autodesk yet populated by an expanding tier of mobile, VR, and web-native indie tools—whereas clinical medical 3D modeling is **moderately concentrated** due to stringent regulatory clearances (FDA/CE-MDR), high R&D thresholds, and clinical compliance requirements dominated by specialized players such as Materialise.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[ZBrush (Maxon)](https://maxon.net)**  
-
-  Industry-standard digital sculpting and painting platform featuring DynaMesh, ZRemesher, Sculptris Pro, and multi-million-polygon brush workflows for film, games, and medical illustration.
-
-
-
-- **[Maxon Cinema 4D & Maxon One Cloud](https://maxon.net)**  
-
-  Professional 3D modeling, volume-builder sculpting, and motion graphics suite featuring procedural MoGraph cloners, VDB volume meshing, and cloud asset libraries.
-
-
-
-- **[Nomad Sculpt](https://nomadsculpt.com)**  
-
-  High-performance portable digital sculpting and vertex-painting studio for iPad, Android, and desktop featuring voxel remeshing, dynamic topology, PBR rendering, and `.obj`/`.stl`/`.glb` export.
-
-
-
-- **[3D-Coat & 3D-Coat Print](https://3dcoat.com)**  
-
-  Voxel-based digital sculpting, auto-retopology, UV mapping, and PBR texturing suite engineered for organic characters, hard-surface assets, and 3D-printable models.
-
-
-
-- **[Autodesk Mudbox](https://autodesk.com)**  
-
-  3D digital sculpting and multi-channel texture painting software offering subdivision-level workflows, PTEX painting, and seamless Maya/3ds Max interoperability.
-
-
-
-- **[Autodesk Meshmixer](https://meshmixer.com)**  
-
-  Freeware triangle-mesh cleanup, hollowing, support-generation, and organic sculpting utility widely adopted in dental, prosthetic, and 3D-printing preparation pipelines.
-
-
-
-- **[Shapelab (Leopoly)](https://shapelabvr.com)**  
-
-  VR and desktop polygon/voxel sculpting application enabling intuitive spatial 3D modeling, dynamic tessellation, and high-resolution mesh export.
-
-
-
-- **[Forger 3D (Maxon)](https://maxon.net)**  
-
-  Mobile-first 3D sculpting and polygonal modeling studio bringing ZBrush-inspired brushes, symmetry, and remeshing tools to iPadOS.
-
-
-
-- **[Blender Studio (formerly Blender Cloud)](https://blender.org)**  
-
-  Official cloud training, production asset repository, and open-movie platform supporting the development of open-source Blender and its Sculpt Mode ecosystem.
-
-
-
-- **[Materialise Mimics Innovation Suite (Cloud & Enterprise)](https://materialise.com)**  
-
-  Clinical-grade medical 3D modeling and DICOM segmentation platform converting CT/MRI scans into anatomical 3D models, surgical guides, and implants.
+| Company / Platform | Market Valuation / Revenue | Starting Tier Pricing | Free Tier Limits / Free Trial | Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Autodesk (Mudbox)](https://autodesk.com)** | **Valuation: ~$62.75B Market Cap**<br>*(FY2025 Revenue: $6.13B)* | Discontinued for new standalone purchase (~$85/mo prior; accessible via Maya/3ds Max suites or Autodesk Flex tokens at ~$3/day) | **30-day free trial**; complete toolset unlocked for evaluation with full export and painting functionality; free 1-year educational license for eligible students and educators | 3D digital sculpting and multi-channel texture painting software offering subdivision-level workflows, PTEX painting, and Maya/3ds Max interoperability. |
+| **[Autodesk (Meshmixer)](https://meshmixer.com)** | **Valuation: ~$62.75B Market Cap**<br>*(FY2025 Revenue: $6.13B)* | Free forever ($0) | **Completely free permanently**; full access with no feature locks, no seat limits, and no export restrictions (legacy v3.5 freeware maintained by Autodesk for STL prep and mesh editing) | Freeware triangle-mesh cleanup, hollowing, support-generation, and organic sculpting utility widely adopted in dental, prosthetic, and 3D-printing preparation pipelines. |
+| **[Maxon (ZBrush)](https://maxon.net)** *(Parent: Nemetschek SE)* | **Valuation: ~$7.8B Market Cap (€7.2B)**<br>*(Parent FY2025 Revenue: €1.19B / ~$1.24B)* | $49/mo (billed monthly) or $399/yr (~$33.25/mo billed annually) | **14-day free trial** via Maxon App with all features unlocked (ZBrush for iPad offers a permanent free tier restricted to 28 core brushes and disabled advanced exports) | Industry-standard digital sculpting and painting platform featuring DynaMesh, ZRemesher, Sculptris Pro, and multi-million-polygon brush workflows for film, games, and medical illustration. |
+| **[Maxon (Cinema 4D & Maxon One)](https://maxon.net)** *(Parent: Nemetschek SE)* | **Valuation: ~$7.8B Market Cap (€7.2B)**<br>*(Parent FY2025 Revenue: €1.19B / ~$1.24B)* | $109/mo (Cinema 4D standalone) or $169/mo (Maxon One bundle) | **14-day free trial** via Maxon App offering full suite capabilities across Cinema 4D, Redshift, and ZBrush without credit card requirement upfront | Professional 3D modeling, volume-builder sculpting, and motion graphics suite featuring procedural MoGraph cloners, VDB volume meshing, and cloud asset libraries. |
+| **[Maxon (Forger 3D)](https://maxon.net)** *(Parent: Nemetschek SE)* | **Valuation: ~$7.8B Market Cap (€7.2B)**<br>*(Parent FY2025 Revenue: €1.19B / ~$1.24B)* | $9.99/mo or $89.99/yr (integrated into ZBrush for iPad ecosystem) | **Free tier permanently available** on iPad with 28 sculpting brushes, Sculptris Pro, and ZRemesher enabled; file export options and advanced rendering restricted without subscription | Mobile-first 3D sculpting and polygonal modeling studio bringing ZBrush-inspired brushes, symmetry, and remeshing tools to iPadOS. |
+| **[Materialise (Mimics Innovation Suite)](https://materialise.com)** | **Valuation: ~$360M Market Cap**<br>*(FY2024 Revenue: €267.6M / ~$285M)* | ~$4,000/yr starting base tier (academic/single-seat DICOM reconstruction quote; commercial/clinical custom quote) | **14-to-30 day evaluation trial** upon sales request; strictly restricted to non-clinical and non-commercial testing with time-locked software expiration; no public unconstrained tier | Clinical-grade medical 3D modeling and DICOM segmentation platform converting CT/MRI scans into anatomical 3D models, surgical guides, and implants. |
+| **[Blender Studio](https://blender.org)** *(Blender Foundation)* | **Valuation: Non-Profit Foundation**<br>*(FY2025 Revenue: €5.71M / ~$6.1M)* | €11.50/mo (~$12.30/mo) for Studio subscription (core Blender app is $0 open-source) | **No free tier for Blender Studio platform** (training courses, masterclasses, and open-movie production assets require active subscription; underlying Blender software is 100% free with 0 limits) | Official cloud training, production asset repository, and open-movie platform supporting the development of open-source Blender and its Sculpt Mode ecosystem. |
+| **[Shapelab (Leopoly)](https://shapelabvr.com)** | **Valuation: ~$10M–$15M Est.**<br>*(Est. Annual Revenue: ~$2.7M)* | $9.99/mo or $49.99/yr (Meta Quest Standalone); $64.99 perpetual (Steam PCVR) | **7-day free trial** on Shapelab Max standalone subscription; Shapelab Lite offers a lower-cost perpetual build ($14.99) capped with reduced Dyntopo and voxel resolution limits | VR and desktop polygon/voxel sculpting application enabling intuitive spatial 3D modeling, dynamic tessellation, and high-resolution mesh export. |
+| **[Nomad Sculpt](https://nomadsculpt.com)** *(Hexanomad)* | **Valuation: Bootstrapped / Indie**<br>*(Est. Annual Revenue: ~$1M–$2M)* | $19.99 one-time purchase (iOS/Android mobile) / $35.00 one-time (Desktop) | **Free Web demo** (browser-based WebAssembly sculpt mode) and **Android free evaluation download** with unlimited sculpting time; exports (OBJ, STL, glTF, PLY) and project saving are fully disabled until licensed | High-performance portable digital sculpting and vertex-painting studio for iPad, Android, and desktop featuring voxel remeshing, dynamic topology, PBR rendering, and `.obj`/`.stl`/`.glb` export. |
+| **[3D-Coat & 3D-Coat Print](https://3dcoat.com)** *(Pilgway)* | **Valuation: Private Independent**<br>*(Est. Annual Revenue: ~$1M–$3M)* | $20.90/mo (Individual subscription) or $439.00 perpetual license | **30-day fully functional free trial**; transitions to permanent **Free Learning Mode** capped at 20K sculpt triangles, 4K retopo polygons, and 512x512 textures; **3DCoatPrint** is permanently free with a 40,000 triangle export limit for 3D printing | Voxel-based digital sculpting, auto-retopology, UV mapping, and PBR texturing suite engineered for organic characters, hard-surface assets, and 3D-printable models. |
 
 
 
